@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat448" alt="rajat448" /></a> </p> -->
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
+- 🌱 I’m currently learning **WEB DEVELOPMENT & DSA**
 
 - 💬 Ask me about **FrontEnd,Cpp,Java,Python**
 
