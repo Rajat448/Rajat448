@@ -1,19 +1,19 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Rajat Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat448&label=Profile%20views&color=0e75b6&style=flat" alt="rajat448" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat448" alt="rajat448" /></a> </p> -->
 
-- 🌱 I’m currently learning **ANDROID DEVELOPMENT**
+- 🌱 I’m currently learning **WEB DEVELOPMENT**
 
 - 💬 Ask me about **FrontEnd,Cpp,Java,Python**
 
 - 📫 How to reach me **guptarajat2206@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **While There's CODE There's A BUG**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
