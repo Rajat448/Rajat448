@@ -55,8 +55,6 @@
   <a href="https://github.com/Rajat448/github-readme-stats"><img alt="Rajat Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat448&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
-<br/>
-
 <!-- <a href="https://github.com/Rajat448/github-readme-activity-graph"><img alt="Rajat Gupta Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rajat448&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rajat448" alt="Rajat448"/></a> </p>
 
