@@ -58,10 +58,6 @@
 <br/>
 
 <!-- <a href="https://github.com/Rajat448/github-readme-activity-graph"><img alt="Rajat Gupta Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rajat448&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-<br/>
-<br/>
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rajat448" alt="Rajat448"/></a> </p>
 
 
