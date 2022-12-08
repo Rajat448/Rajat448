@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **WEB DEVELOPMENT & DSA**
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 💬 Ask me about **FrontEnd,Cpp,Java,Python**
+- 💬 Ask me about **WebD,Cpp,Java,Python**
 
 - 📫 How to reach me **guptarajat2206@gmail.com**
 
