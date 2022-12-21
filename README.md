@@ -102,6 +102,4 @@
 
 <img height="120" alt="Thank you for visiting my profile" width="100%"
     src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-    
-    
-    ![snake gif](https://github.com/Rajat448/Rajat448/blob/output/github-contribution-grid-snake.gif)
+   
