@@ -102,7 +102,7 @@
 
 
 <img height="120" alt="Thank you for visiting my profile" width="100%"
-    src="https://github.com/Rajat448/Rajat448/marquee.svg" />
+    src="[https://github.com/Rajat448/Rajat448/marquee.svg](https://github.com/Rajat448/Rajat448/blob/main/marquee.svg)" />
 
 
 ![snake gif](https://github.com/Rajat448/Rajat448/blob/output/github-contribution-grid-snake.gif)
