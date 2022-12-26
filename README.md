@@ -62,12 +62,12 @@
 
 <p align="center">
     <a>
-        <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+        <img height="150" width="150" src="https://github.com/Rajat448/Rajat448/blob/main/img/left.png">
         <a href="https://github.com/Rajat448/github-readme-streak-stats">
             <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rajat Gupta's streak"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=Rajat448&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
             <img height="150" width="150"
-                src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+                src="https://github.com/Rajat448/Rajat448/blob/main/img/right.png">
         </a>
 </p>
 
